@@ -263,7 +263,7 @@ To run mist as a server, using the following command will start mist as a daemon
 
 If you need to override any default config options you can pass the path to a config file:
 
-`mist --config /path/to/config`
+`mist --config /path/to/config.yml`
 
 ##### example config
 
